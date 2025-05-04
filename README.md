@@ -4,7 +4,7 @@
 
 ## clone repository
 ```bash
-git clone _repo\_url_
+git clone *repo\_url*
 ```
 ## compile and run the program
 ```bash
