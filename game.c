@@ -19,7 +19,7 @@ int main(){
 	srand(time(0));
 	random = rand()%100+1;
 
-	printf("Guess the number that i am thinking between 1-100\n");
+	printf("Guess the number that i am thinking between 1-100. You have only 7 Guesses\n");
 
 	
 	n = log2(100)+0.5;
