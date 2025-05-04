@@ -1,6 +1,10 @@
 # Guess the number game
-> simple game which helps you understand how binary search works :)<br>
-> just try it out 
+> [!NOTE]
+> **Simple game which gives an idea how binary search works. 
+> Just try it out.**
+
+> [!IMPORTANT]
+> **The program selects a number between 1-100, the user has to guess the number within 7 chances.**
 
 ## clone repository
 ```bash
