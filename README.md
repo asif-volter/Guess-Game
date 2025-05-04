@@ -12,6 +12,6 @@ git clone <repo_url>
 ```
 ## compile and run the program
 ```bash
-gcc game.c -o game
+gcc game.c -o game;
 ./game
 ```
